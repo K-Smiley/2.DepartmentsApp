@@ -6,3 +6,5 @@ department and listing departments; and, implies changes to the implementations 
 adding and updating employees.
 
 # Class Diagram
+
+![](Class_Diagram.png)
