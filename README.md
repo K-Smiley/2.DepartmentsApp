@@ -7,4 +7,4 @@ adding and updating employees.
 
 # Class Diagram
 
-![](Class_Diagram.png)
+![](Images/Class_Diagram.png)
